@@ -1,0 +1,4 @@
+com\guestbook\GuestbookEntry.class
+com\guestbook\GuestbookController.class
+com\guestbook\GuestbookBackendApplication.class
+com\guestbook\GuestbookRepository.class
